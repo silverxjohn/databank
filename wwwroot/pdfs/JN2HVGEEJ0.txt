@@ -1,0 +1,185 @@
+Started: Thu Nov 08 2018 19:27:46
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:28:39
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6377_sd_53.jpg' WHERE StyleID = '6377' AND ColorID = '53' with message (Rows matched: 2  Changed: 0  Warnings: 0).
+Transferred: '6377_sd_53.jpg' to '6377-53/side/home/6377_sd_53.jpg'.
+Transferred: '6377_sd_53.jpg' to '6377-53/side/large/6377_sd_53.jpg'.
+Transferred: '6377_sd_53.jpg' to '6377-53/side/medium/6377_sd_53.jpg'.
+Transferred: '6377_sd_53.jpg' to '6377-53/side/small/6377_sd_53.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:29:27
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6477_sd_45.jpg' WHERE StyleID = '6477' AND ColorID = '45' with message (Rows matched: 2  Changed: 0  Warnings: 0).
+Transferred: '6477_sd_45.jpg' to '6477-45/side/home/6477_sd_45.jpg'.
+Transferred: '6477_sd_45.jpg' to '6477-45/side/large/6477_sd_45.jpg'.
+Transferred: '6477_sd_45.jpg' to '6477-45/side/medium/6477_sd_45.jpg'.
+Transferred: '6477_sd_45.jpg' to '6477-45/side/small/6477_sd_45.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:29:27
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6747_sd_47.jpg' WHERE StyleID = '6747' AND ColorID = '47' with message (Rows matched: 6  Changed: 0  Warnings: 0).
+Transferred: '6747_sd_47.jpg' to '6747-47/side/home/6747_sd_47.jpg'.
+Transferred: '6747_sd_47.jpg' to '6747-47/side/large/6747_sd_47.jpg'.
+Transferred: '6747_sd_47.jpg' to '6747-47/side/medium/6747_sd_47.jpg'.
+Transferred: '6747_sd_47.jpg' to '6747-47/side/small/6747_sd_47.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:29:28
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6750vl_sd_00.jpg' WHERE StyleID = '6750VL' AND ColorID = '00' with message (Rows matched: 6  Changed: 0  Warnings: 0).
+Transferred: '6750vl_sd_00.jpg' to '6750VL-00/side/home/6750vl_sd_00.jpg'.
+Transferred: '6750vl_sd_00.jpg' to '6750VL-00/side/large/6750vl_sd_00.jpg'.
+Transferred: '6750vl_sd_00.jpg' to '6750VL-00/side/medium/6750vl_sd_00.jpg'.
+Transferred: '6750vl_sd_00.jpg' to '6750VL-00/side/small/6750vl_sd_00.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:29:46
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6747_sd_51.jpg' WHERE StyleID = '6747' AND ColorID = '51' with message (Rows matched: 6  Changed: 0  Warnings: 0).
+Transferred: '6747_sd_51.jpg' to '6747-51/side/home/6747_sd_51.jpg'.
+Transferred: '6747_sd_51.jpg' to '6747-51/side/large/6747_sd_51.jpg'.
+Transferred: '6747_sd_51.jpg' to '6747-51/side/medium/6747_sd_51.jpg'.
+Transferred: '6747_sd_51.jpg' to '6747-51/side/small/6747_sd_51.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:30:23
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6477_sd_43.jpg' WHERE StyleID = '6477' AND ColorID = '43' with message (Rows matched: 2  Changed: 0  Warnings: 0).
+Transferred: '6477_sd_43.jpg' to '6477-43/side/home/6477_sd_43.jpg'.
+Transferred: '6477_sd_43.jpg' to '6477-43/side/large/6477_sd_43.jpg'.
+Transferred: '6477_sd_43.jpg' to '6477-43/side/medium/6477_sd_43.jpg'.
+Transferred: '6477_sd_43.jpg' to '6477-43/side/small/6477_sd_43.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:30:29
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6750l_sd_00.jpg' WHERE StyleID = '6750L' AND ColorID = '00' with message (Rows matched: 6  Changed: 0  Warnings: 0).
+Transferred: '6750l_sd_00.jpg' to '6750L-00/side/home/6750l_sd_00.jpg'.
+Transferred: '6750l_sd_00.jpg' to '6750L-00/side/large/6750l_sd_00.jpg'.
+Transferred: '6750l_sd_00.jpg' to '6750L-00/side/medium/6750l_sd_00.jpg'.
+Transferred: '6750l_sd_00.jpg' to '6750L-00/side/small/6750l_sd_00.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:30:30
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6747_sd_ab.jpg' WHERE StyleID = '6747' AND ColorID = 'AB' with message (Rows matched: 6  Changed: 0  Warnings: 0).
+Transferred: '6747_sd_ab.jpg' to '6747-AB/side/home/6747_sd_ab.jpg'.
+Transferred: '6747_sd_ab.jpg' to '6747-AB/side/large/6747_sd_ab.jpg'.
+Transferred: '6747_sd_ab.jpg' to '6747-AB/side/medium/6747_sd_ab.jpg'.
+Transferred: '6747_sd_ab.jpg' to '6747-AB/side/small/6747_sd_ab.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:30:31
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6750_sd_00.jpg' WHERE StyleID = '6750' AND ColorID = '00' with message (Rows matched: 7  Changed: 0  Warnings: 0).
+Transferred: '6750_sd_00.jpg' to '6750-00/side/home/6750_sd_00.jpg'.
+Transferred: '6750_sd_00.jpg' to '6750-00/side/large/6750_sd_00.jpg'.
+Transferred: '6750_sd_00.jpg' to '6750-00/side/medium/6750_sd_00.jpg'.
+Transferred: '6750_sd_00.jpg' to '6750-00/side/small/6750_sd_00.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:30:31
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageFront = '6755_a6.jpg', fldProductOptionsImageBack = '6755_bk_a6.jpg', fldProductOptionsImageSide = '6755_sd_a6.jpg' WHERE StyleID = '6755' AND ColorID = 'A6' with message (Rows matched: 6  Changed: 0  Warnings: 0).
+Transferred: '6755_a6.jpg' to '6755-A6/front/home/6755_a6.jpg'.
+Transferred: '6755_a6.jpg' to '6755-A6/front/large/6755_a6.jpg'.
+Transferred: '6755_a6.jpg' to '6755-A6/front/medium/6755_a6.jpg'.
+Transferred: '6755_a6.jpg' to '6755-A6/front/small/6755_a6.jpg'.
+Transferred: '6755_sd_a6.jpg' to '6755-A6/side/home/6755_sd_a6.jpg'.
+Transferred: '6755_sd_a6.jpg' to '6755-A6/side/large/6755_sd_a6.jpg'.
+Transferred: '6755_sd_a6.jpg' to '6755-A6/side/medium/6755_sd_a6.jpg'.
+Transferred: '6755_sd_a6.jpg' to '6755-A6/side/small/6755_sd_a6.jpg'.
+Transferred: '6755_bk_a6.jpg' to '6755-A6/back/home/6755_bk_a6.jpg'.
+Transferred: '6755_bk_a6.jpg' to '6755-A6/back/large/6755_bk_a6.jpg'.
+Transferred: '6755_bk_a6.jpg' to '6755-A6/back/medium/6755_bk_a6.jpg'.
+Transferred: '6755_bk_a6.jpg' to '6755-A6/back/small/6755_bk_a6.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:30:33
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6377_sd_43.jpg' WHERE StyleID = '6377' AND ColorID = '43' with message (Rows matched: 2  Changed: 0  Warnings: 0).
+Transferred: '6377_sd_43.jpg' to '6377-43/side/home/6377_sd_43.jpg'.
+Transferred: '6377_sd_43.jpg' to '6377-43/side/large/6377_sd_43.jpg'.
+Transferred: '6377_sd_43.jpg' to '6377-43/side/medium/6377_sd_43.jpg'.
+Transferred: '6377_sd_43.jpg' to '6377-43/side/small/6377_sd_43.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:31:01
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6477_sd_55.jpg' WHERE StyleID = '6477' AND ColorID = '55' with message (Rows matched: 2  Changed: 0  Warnings: 0).
+Transferred: '6477_sd_55.jpg' to '6477-55/side/home/6477_sd_55.jpg'.
+Transferred: '6477_sd_55.jpg' to '6477-55/side/large/6477_sd_55.jpg'.
+Transferred: '6477_sd_55.jpg' to '6477-55/side/medium/6477_sd_55.jpg'.
+Transferred: '6477_sd_55.jpg' to '6477-55/side/small/6477_sd_55.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:31:01
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6751l_sd_00.jpg' WHERE StyleID = '6751L' AND ColorID = '00' with message (Rows matched: 6  Changed: 0  Warnings: 0).
+Transferred: '6751l_sd_00.jpg' to '6751L-00/side/home/6751l_sd_00.jpg'.
+Transferred: '6751l_sd_00.jpg' to '6751L-00/side/large/6751l_sd_00.jpg'.
+Transferred: '6751l_sd_00.jpg' to '6751L-00/side/medium/6751l_sd_00.jpg'.
+Transferred: '6751l_sd_00.jpg' to '6751L-00/side/small/6751l_sd_00.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:31:04
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6477_sd_51.jpg' WHERE StyleID = '6477' AND ColorID = '51' with message (Rows matched: 2  Changed: 0  Warnings: 0).
+Transferred: '6477_sd_51.jpg' to '6477-51/side/home/6477_sd_51.jpg'.
+Transferred: '6477_sd_51.jpg' to '6477-51/side/large/6477_sd_51.jpg'.
+Transferred: '6477_sd_51.jpg' to '6477-51/side/medium/6477_sd_51.jpg'.
+Transferred: '6477_sd_51.jpg' to '6477-51/side/small/6477_sd_51.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:31:31
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6752_sd_00.jpg' WHERE StyleID = '6752' AND ColorID = '00' with message (Rows matched: 7  Changed: 0  Warnings: 0).
+Transferred: '6752_sd_00.jpg' to '6752-00/side/home/6752_sd_00.jpg'.
+Transferred: '6752_sd_00.jpg' to '6752-00/side/large/6752_sd_00.jpg'.
+Transferred: '6752_sd_00.jpg' to '6752-00/side/medium/6752_sd_00.jpg'.
+Transferred: '6752_sd_00.jpg' to '6752-00/side/small/6752_sd_00.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:31:31
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6377_sd_54.jpg' WHERE StyleID = '6377' AND ColorID = '54' with message (Rows matched: 2  Changed: 0  Warnings: 0).
+Transferred: '6377_sd_54.jpg' to '6377-54/side/home/6377_sd_54.jpg'.
+Transferred: '6377_sd_54.jpg' to '6377-54/side/large/6377_sd_54.jpg'.
+Transferred: '6377_sd_54.jpg' to '6377-54/side/medium/6377_sd_54.jpg'.
+Transferred: '6377_sd_54.jpg' to '6377-54/side/small/6377_sd_54.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:31:31
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6750l_sd_51.jpg' WHERE StyleID = '6750L' AND ColorID = '51' with message (Rows matched: 6  Changed: 0  Warnings: 0).
+Transferred: '6750l_sd_51.jpg' to '6750L-51/side/home/6750l_sd_51.jpg'.
+Transferred: '6750l_sd_51.jpg' to '6750L-51/side/large/6750l_sd_51.jpg'.
+Transferred: '6750l_sd_51.jpg' to '6750L-51/side/medium/6750l_sd_51.jpg'.
+Transferred: '6750l_sd_51.jpg' to '6750L-51/side/small/6750l_sd_51.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:31:31
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6377_sd_51.jpg' WHERE StyleID = '6377' AND ColorID = '51' with message (Rows matched: 2  Changed: 0  Warnings: 0).
+Transferred: '6377_sd_51.jpg' to '6377-51/side/home/6377_sd_51.jpg'.
+Transferred: '6377_sd_51.jpg' to '6377-51/side/large/6377_sd_51.jpg'.
+Transferred: '6377_sd_51.jpg' to '6377-51/side/medium/6377_sd_51.jpg'.
+Transferred: '6377_sd_51.jpg' to '6377-51/side/small/6377_sd_51.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:31:48
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6477_sd_53.jpg' WHERE StyleID = '6477' AND ColorID = '53' with message (Rows matched: 2  Changed: 0  Warnings: 0).
+Transferred: '6477_sd_53.jpg' to '6477-53/side/home/6477_sd_53.jpg'.
+Transferred: '6477_sd_53.jpg' to '6477-53/side/large/6477_sd_53.jpg'.
+Transferred: '6477_sd_53.jpg' to '6477-53/side/medium/6477_sd_53.jpg'.
+Transferred: '6477_sd_53.jpg' to '6477-53/side/small/6477_sd_53.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:31:49
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6477_sd_44.jpg' WHERE StyleID = '6477' AND ColorID = '44' with message (Rows matched: 2  Changed: 0  Warnings: 0).
+Transferred: '6477_sd_44.jpg' to '6477-44/side/home/6477_sd_44.jpg'.
+Transferred: '6477_sd_44.jpg' to '6477-44/side/large/6477_sd_44.jpg'.
+Transferred: '6477_sd_44.jpg' to '6477-44/side/medium/6477_sd_44.jpg'.
+Transferred: '6477_sd_44.jpg' to '6477-44/side/small/6477_sd_44.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:31:53
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6377_sd_52.jpg' WHERE StyleID = '6377' AND ColorID = '52' with message (Rows matched: 2  Changed: 0  Warnings: 0).
+Transferred: '6377_sd_52.jpg' to '6377-52/side/home/6377_sd_52.jpg'.
+Transferred: '6377_sd_52.jpg' to '6377-52/side/large/6377_sd_52.jpg'.
+Transferred: '6377_sd_52.jpg' to '6377-52/side/medium/6377_sd_52.jpg'.
+Transferred: '6377_sd_52.jpg' to '6377-52/side/small/6377_sd_52.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:31:53
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6477_sd_22.jpg' WHERE StyleID = '6477' AND ColorID = '22' with message (Rows matched: 2  Changed: 0  Warnings: 0).
+Transferred: '6477_sd_22.jpg' to '6477-22/side/home/6477_sd_22.jpg'.
+Transferred: '6477_sd_22.jpg' to '6477-22/side/large/6477_sd_22.jpg'.
+Transferred: '6477_sd_22.jpg' to '6477-22/side/medium/6477_sd_22.jpg'.
+Transferred: '6477_sd_22.jpg' to '6477-22/side/small/6477_sd_22.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6477_sd_48.jpg' WHERE StyleID = '6477' AND ColorID = '48' with message (Rows matched: 2  Changed: 0  Warnings: 0).
+Thu Nov 08 2018 19:31:55
+Transferred: '6477_sd_48.jpg' to '6477-48/side/home/6477_sd_48.jpg'.
+Transferred: '6477_sd_48.jpg' to '6477-48/side/large/6477_sd_48.jpg'.
+Transferred: '6477_sd_48.jpg' to '6477-48/side/medium/6477_sd_48.jpg'.
+Transferred: '6477_sd_48.jpg' to '6477-48/side/small/6477_sd_48.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:32:04
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6477_sd_52.jpg' WHERE StyleID = '6477' AND ColorID = '52' with message (Rows matched: 2  Changed: 0  Warnings: 0).
+Transferred: '6477_sd_52.jpg' to '6477-52/side/home/6477_sd_52.jpg'.
+Transferred: '6477_sd_52.jpg' to '6477-52/side/large/6477_sd_52.jpg'.
+Transferred: '6477_sd_52.jpg' to '6477-52/side/medium/6477_sd_52.jpg'.
+Transferred: '6477_sd_52.jpg' to '6477-52/side/small/6477_sd_52.jpg'.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Nov 08 2018 19:32:09
+Query Ran: UPDATE tblProductOptions SET fldProductOptionsImageSide = '6477_sd_54.jpg' WHERE StyleID = '6477' AND ColorID = '54' with message (Rows matched: 2  Changed: 0  Warnings: 0).
+Transferred: '6477_sd_54.jpg' to '6477-54/side/home/6477_sd_54.jpg'.
+Transferred: '6477_sd_54.jpg' to '6477-54/side/large/6477_sd_54.jpg'.
+Transferred: '6477_sd_54.jpg' to '6477-54/side/medium/6477_sd_54.jpg'.
+Transferred: '6477_sd_54.jpg' to '6477-54/side/small/6477_sd_54.jpg'.
+Finished: Thu Nov 08 2018 19:32:09
